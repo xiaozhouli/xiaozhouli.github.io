@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Dr. Xiaozhou Li"
 title_separator          : "-"
 name                     : &name "Your Name"
-description              : &description "Research scientist at UESTC"
+description              : &description "Associate Researcher at UESTC"
 url                      : https://xiaozhouli.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xiaozhouli.github.io"
@@ -22,22 +22,22 @@ repository               : "xiaozhouli.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "xiaozhou.jpg"
+  name             : "Dr. Xiaozhou Li"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Chengdu, Sichuan"
+  employer         : "University of Electronic Science and Technology of China"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "xiaozhouli@uestc.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "http://scholar.google.com/this-is-a-test"
+  googlescholar    : #"http://scholar.google.com/this-is-a-test"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -50,7 +50,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -74,6 +74,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
+  wordpress        : "xiaozhouli"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:

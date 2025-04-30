@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-## Education:
+# Education:
 * 2011–2015, Ph.D., Applied Mathematics, Delft University of Technology, Netherlands.
 * 2007–2010, B.S., Mathematics and Applied Mathematics, University of Science and Technology of China, China.
 * 2006–2007, School of Information Science and Technology, University of Science and Technology of China, China.
 
-## Appointment:
-* 2017-present, Associate Researcher, School of Mathematical Sciences, University of Electronic Science and Technology of China, China. [link](http://www.math.uestc.edu.cn/plus/list.php?tid=636)
+# Appointment:
+* 2017-present, Associate Researcher, School of Mathematical Sciences, University of Electronic Science and Technology of China, China. [link](https://www.math.uestc.edu.cn/info/1082/2095.htm)
 * 2015–2017, Postdoc, Institute of Computational Science, Università della Svizzera Italiana, Switzerland. 
 * 2015–2017, Postdoc, Center for Computational Medicine in Cardiology (CCMC), Università della Svizzera Italiana, Switzerland. 
 
