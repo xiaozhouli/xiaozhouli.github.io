@@ -15,38 +15,17 @@ I hold a B.Sc. in Mathematics and Applied Mathematics from Liaoning Normal Unive
 
 Feel free to [contact me via email](mailto:your_email@example.com) or connect through [Google Scholar](https://scholar.google.com/), [GitHub](https://github.com/yourusername), or other platforms linked below.
 
-# Education:
+## Education:
 * 2011–2015, Ph.D., Applied Mathematics, Delft University of Technology, Netherlands.
 * 2007–2010, B.S., Mathematics and Applied Mathematics, University of Science and Technology of China, China.
 * 2006–2007, School of Information Science and Technology, University of Science and Technology of China, China.
 
-# Appointment:
+## Work:
 * 2017-present, Associate Researcher, School of Mathematical Sciences, University of Electronic Science and Technology of China, China. [link](https://www.math.uestc.edu.cn/info/1082/2095.htm)
 * 2015–2017, Postdoc, Institute of Computational Science, Università della Svizzera Italiana, Switzerland. 
 * 2015–2017, Postdoc, Center for Computational Medicine in Cardiology (CCMC), Università della Svizzera Italiana, Switzerland. 
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
