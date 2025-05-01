@@ -19,14 +19,12 @@ main:
         url: "/projects/"
       - title: "Talks"
         url: "/talks/"
-      - title: "Collaborators"
-        url: "/collaborators/"
         
-  - title: "Publications"
-    url: /publications/
+  #- title: "Publications"
+  #  url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  #- title: "Talks"
+  #  url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
@@ -37,8 +35,8 @@ main:
   - title: "Blog"
     url: /year-archive/
     
-  - title: "About"
-    url: /about/
+  - title: "Me"
+    url: /me/
     
   # - title: "CV"
   #   url: /cv-json/

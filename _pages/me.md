@@ -1,13 +1,19 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "About Me"
+permalink: /me/
 author_profile: true
 redirect_from:
   - /resume
+  - /cv
 ---
 
 {% include base_path %}
+I am a researcher in computational mathematics, currently focusing on high-accuracy numerical methods for solving partial differential equations. My recent interests include Discontinuous Galerkin (DG) methods, time-parallel solvers, and their applications in high-performance computing.
+
+I hold a B.Sc. in Mathematics and Applied Mathematics from Liaoning Normal University, and I am deeply involved in both research and teaching. Beyond mathematics, I enjoy long-term strength training, endurance development, and studying the science of health and performance.
+
+Feel free to [contact me via email](mailto:your_email@example.com) or connect through [Google Scholar](https://scholar.google.com/), [GitHub](https://github.com/yourusername), or other platforms linked below.
 
 # Education:
 * 2011–2015, Ph.D., Applied Mathematics, Delft University of Technology, Netherlands.
