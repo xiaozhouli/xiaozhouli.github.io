@@ -8,9 +8,21 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
+  - title: "Home"
+    url: /
+    
   - title: "Research"
     url: /research/
-
+    children: 
+      - title: "Publications"
+        url: "/publications/"
+      - title: "Projects"
+        url: "/projects/"
+      - title: "Talks"
+        url: "/talks/"
+      - title: "Collaborators"
+        url: "/collaborators/"
+        
   - title: "Publications"
     url: /publications/
 
@@ -34,3 +46,4 @@ main:
     
   - title: "Guide"
     url: /markdown/
+    
