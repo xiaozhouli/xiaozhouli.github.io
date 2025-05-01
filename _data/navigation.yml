@@ -12,13 +12,8 @@ main:
     url: /
     
   - title: "Research"
-    children: 
-      - title: "Publications"
-        url: "/publications/"
-      - title: "Projects"
-        url: "/projects/"
-      - title: "Talks"
-        url: "/talks/"
+    url: /research/
+
         
   #- title: "Publications"
   #  url: /publications/
