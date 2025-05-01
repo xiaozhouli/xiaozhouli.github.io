@@ -12,7 +12,6 @@ main:
     url: /
     
   - title: "Research"
-    url: /research/
     children: 
       - title: "Publications"
         url: "/publications/"
