@@ -29,13 +29,13 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Resources"
+    url: /resources/
         
   - title: "Blog"
     url: /year-archive/
     
-  - title: "Me"
+  - title: "About Me"
     url: /me/
     
   # - title: "CV"
