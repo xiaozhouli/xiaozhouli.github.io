@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Dr. Xiaozhou Li"
+title                    : "Home"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Xiaozhou Li"
 description              : &description "Associate Researcher at UESTC"
 url                      : https://xiaozhouli.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -25,7 +25,7 @@ author:
   avatar           : "xiaozhou.jpg"
   name             : "Dr. Xiaozhou Li"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Computational mathematician. Interested in numerical PDEs, DG methods, and long-term training."
   location         : "Chengdu, Sichuan"
   employer         : "University of Electronic Science and Technology of China"
   uri              : # URL
@@ -74,7 +74,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
-  wordpress        : #"xiaozhouli"
+  wordpress        : "xiaozhouli"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
