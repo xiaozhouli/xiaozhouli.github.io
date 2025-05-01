@@ -13,3 +13,6 @@ author_profile: true
 * Numerical methods for nonlinear wave propagation problems, such as high order methods, space-time adaptive strategies, etc.
 * High performance computing (HPC), such as parallel-in-time integration methods.
 * High order numerical methods for PDEs.
+
+
+- 📄 [Publications](/research/publications/)
