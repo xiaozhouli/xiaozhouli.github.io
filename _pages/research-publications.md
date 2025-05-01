@@ -10,5 +10,5 @@ author_profile: true
 A list of my academic publications.
 
 {% for post in site.publications reversed %}
-  {% include archive-single-cite.html %}
+  {% include archive-single.html %}
 {% endfor %}
