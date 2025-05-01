@@ -15,4 +15,8 @@ author_profile: true
 * High order numerical methods for PDEs.
 
 
-- 📄 [Publications](/research/publications/)
+## [Publications](/research/publications/)
+
+## [Projects](/research/projects/)
+
+## [Talks](/research/talks/)
