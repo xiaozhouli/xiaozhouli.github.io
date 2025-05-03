@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 1"
+title: "Finite Element Methods"
 collection: teaching
-type: "Undergraduate course"
+type: "Seminar Course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Delft University of Technology, AE Building"
+date: 2014-03-01
+location: "Delft, Netherlands"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+* Brenner, Susanne C. The mathematical theory of finite element methods. Springer, 2008.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
