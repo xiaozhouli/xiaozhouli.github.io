@@ -9,12 +9,12 @@ author_profile: true
 
 ## Teaching Philosophy
 
-The central role of teaching mathematics has always been helping people learn how to think. This involves guiding students to develop both a deep conceptual understanding of mathematical ideas and the ability to reason logically and critically. While specific knowledge may fade over time, the habits of mind cultivated through mathematical thinking can last a lifetime.
+The central role of teaching mathematics has always been helping people learn how to think. This involves guiding students to develop both a deep conceptual understanding of mathematical ideas and the ability to reason logically and critically. While specific knowledge may fade over time, the habits of mind cultivated through mathematical thinking can last a lifetime. 
 
 **Essential keywords: order, method, and logic.**
 
-Ultimately, my goal as a teacher is not merely to transmit knowledge, but to cultivate a mathematical way of thinking that empowers students long after they leave the classroom.
 
+The knowledge may be forgotten, but the way of thinking and understanding will be with the students for their entire life. Ultimately, my goal as a teacher is not merely to transmit knowledge, but to cultivate a mathematical way of thinking that empowers students long after they leave the classroom.
 ---
 
 ## Teaching Techniques
@@ -31,5 +31,5 @@ While blackboards excel in fostering understanding, modern technology can comple
 ## Teaching Experience
 
 {% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+  {% include archive-single-teaching.html %}
 {% endfor %}
