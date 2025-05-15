@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Dr. Xiaozhou Li"
+title                    : "Xiaozhou Li, PhD"
 title_separator          : "-"
 name                     : &name "Xiaozhou Li"
 description              : &description "Associate Researcher at UESTC"

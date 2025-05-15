@@ -19,4 +19,6 @@ author_profile: true
 
 ## [Projects](/research/projects/)
 
+Platform for Advanced Scientific Computing (PASC) Project: Integrative HPC Framework for Coupled Cardiac Simulations.
+
 ## [Talks](/research/talks/)

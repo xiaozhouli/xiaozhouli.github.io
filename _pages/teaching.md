@@ -13,8 +13,8 @@ The central role of teaching mathematics has always been helping people learn ho
 
 **Essential keywords: order, method, and logic.**
 
-
 The knowledge may be forgotten, but the way of thinking and understanding will be with the students for their entire life. Ultimately, my goal as a teacher is not merely to transmit knowledge, but to cultivate a mathematical way of thinking that empowers students long after they leave the classroom.
+
 ---
 
 ## Teaching Techniques
@@ -28,7 +28,7 @@ Like many mathematicians, I find the blackboard to be my most valuable teaching 
 While blackboards excel in fostering understanding, modern technology can complement traditional methods by offering clarity and structure. For example, slides are useful for visual summaries or organizing complex content. I’ve also found tools like **Jupyter Notebooks** especially effective in courses such as *Numerical Analysis* or *Scientific Computing*, where the combination of code, visualization, and explanation enhances student engagement and understanding.
 
 ---
-## Teaching Experience
+# Teaching Experience
 
 {% for post in site.teaching reversed %}
   {% include archive-single-teaching.html %}
