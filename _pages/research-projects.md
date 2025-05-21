@@ -8,5 +8,5 @@ author_profile: true
 
 
 {% for post in site.projects reversed %}
-  {% include archive-single.html %}
+  {% include archive-single-project.html %}
 {% endfor %}

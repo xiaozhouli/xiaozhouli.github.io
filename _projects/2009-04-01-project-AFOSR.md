@@ -3,11 +3,14 @@ title: "Exploiting Superconvergence in Discontinuous Galerkin Methods for Improv
 collection: projects
 category: projects
 permalink: /projects/2009-04-01-project-AFOSR
-excerpt: 'A research project funded by the U.S. Air Force Office of Scientific Research to explore superconvergence properties in DG methods for more accurate time integration and visualization.'
-date: 2009-04-01
-venue: "European Office of Aerospace Research & Development, U.S. Air Force Office of Scientific Research (FA8655-13-1-3017)"
+grantid: FA8655-13-1-3017
+startdate: 2009-04-01
+enddate: 2013-04-01
+venue: "European Office of Aerospace Research & Development, U.S. Air Force Office of Scientific Research"
 projecturl: ""
+reporturl:  ""
 citation: "Exploiting Superconvergence in Discontinuous Galerkin Methods for Improved Time-Stepping and Visualization, U.S. AFOSR Grant FA8655-13-1-3017, 2013–2016"
+excerpt: 'A research project funded by the U.S. Air Force Office of Scientific Research to explore superconvergence properties in DG methods for more accurate time integration and visualization.'
 ---
 This project investigated the theoretical and computational aspects of **superconvergence phenomena** in the Discontinuous Galerkin (DG) method, with the goal of improving both **time-stepping accuracy** and **scientific visualization** of numerical solutions.
 
