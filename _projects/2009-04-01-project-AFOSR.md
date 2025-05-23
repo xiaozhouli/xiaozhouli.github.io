@@ -1,32 +1,30 @@
 ---
-title: "Exploiting Superconvergence in Discontinuous Galerkin Methods for Improved Time-Stepping and Visualization"
+title: "Development Of A Class Of Smoothness-Increasing Accuracy-Conserving (SIAC) Methods For Post-Processing Discontinuous Galerkin Solutions"
 collection: projects
 category: projects
 permalink: /projects/2009-04-01-project-AFOSR
-grantid: FA8655-13-1-3017
+grantid: FA8655-09-1-3055
 startdate: 2009-04-01
-enddate: 2013-04-01
+enddate: 2013-03-31
 venue: "European Office of Aerospace Research & Development, U.S. Air Force Office of Scientific Research"
 projecturl: ""
 reporturl:  ""
-citation: "Exploiting Superconvergence in Discontinuous Galerkin Methods for Improved Time-Stepping and Visualization, U.S. AFOSR Grant FA8655-13-1-3017, 2013–2016"
-excerpt: 'A research project funded by the U.S. Air Force Office of Scientific Research to explore superconvergence properties in DG methods for more accurate time integration and visualization.'
+citation: "Development Of A Class Of Smoothness-Increasing Accuracy-Conserving (SIAC) Methods For Post-Processing Discontinuous Galerkin Solutions, U.S. AFOSR Grant FA8655-09-1-3055."
+excerpt: 'This project develops advanced filtering techniques to enhance the smoothness and accuracy quality of high-order discontinuous Galerkin simulation data.'
 ---
-This project investigated the theoretical and computational aspects of **superconvergence phenomena** in the Discontinuous Galerkin (DG) method, with the goal of improving both **time-stepping accuracy** and **scientific visualization** of numerical solutions.
+High-order Galerkin methods—both discontinuous and continuous—are known for their strong theoretical foundations and computational efficiency. However, a common limitation stems from their minimal smoothness requirements across element interfaces. This lack of continuity can undermine downstream tasks such as data interpretation, feature detection, and scientific visualization, where smoothness is often crucial.
 
-### Key Objectives:
+This project seeks to enhance the utility of Galerkin-based simulations by developing filters that simultaneously improve smoothness and maintain accuracy. These techniques will be designed to align with the mathematical structure of the computed data while producing outputs that are more compatible with conventional visualization workflows.
 
-- Identify and characterize superconvergence points in DG methods.
-- Develop **enhanced time integration schemes** that exploit superconvergence.
-- Apply **SIAC filtering techniques** for improved post-processing and visualization.
-- Evaluate the proposed methods on test problems including **wave propagation** and **shock interactions**.
+The core aim is to explore and resolve fundamental challenges in visualizing outputs from high-order discontinuous Galerkin simulations. To that end, we will advance the theory and implementation of Smoothness-Increasing Accuracy-Conserving (SIAC) filters and deliver robust, accessible software tools tailored to the needs of researchers and practitioners working with high-fidelity numerical simulations.
+interactions**.
 
 ### Project Duration:
 
-**2013.02.01 – 2016.06.30**
+**2009.04.01 – 2013.03.31**
 
 ### Funding:
 
 European Office of Aerospace Research & Development,  
 U.S. Air Force Office of Scientific Research  
-**Grant ID:** FA8655-13-1-3017
+**Grant ID:** FA8655-09-1-3055
