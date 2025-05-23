@@ -44,7 +44,7 @@
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'projects' %}
           <p>
-            <strong>Funding:</strong> <i>{{ post.venue }}</i><br/>
+            <strong>Funded by </strong> <i>{{ post.venue }}</i><br/>
             {% if post.grantid %}<strong>Project ID:</strong> {{ post.grantid }}<br/>{% endif %}
             {% if post.startdate and post.enddate %}
               <strong>Duration:</strong> {{ post.startdate | date: "%Y.%m.%d" }} – {{ post.enddate | date: "%Y.%m.%d" }}
