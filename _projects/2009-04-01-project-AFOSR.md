@@ -19,6 +19,10 @@ This project seeks to enhance the utility of Galerkin-based simulations by devel
 The core aim is to explore and resolve fundamental challenges in visualizing outputs from high-order discontinuous Galerkin simulations. To that end, we will advance the theory and implementation of Smoothness-Increasing Accuracy-Conserving (SIAC) filters and deliver robust, accessible software tools tailored to the needs of researchers and practitioners working with high-fidelity numerical simulations.
 interactions**.
 
+### Role: 
+
+Participated
+
 ### Project Duration:
 
 **2009.04.01 – 2013.03.31**

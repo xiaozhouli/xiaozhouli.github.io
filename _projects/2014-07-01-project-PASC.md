@@ -21,6 +21,10 @@ Validation and benchmarking will be conducted using established production tools
 
 The core objective of this effort is to design and deliver robust numerical solvers and a modular, extensible software environment that supports fully and partially coupled cardiac simulations—electromechanical, mechanical-fluid, or integrated electromechanics-fluid models. Ultimately, IFCCS will provide clinicians and researchers with flexible, validated computational tools to match simulation fidelity to clinical context and treatment planning needs.
 
+### Role: 
+
+Participated
+
 ### Project Duration:
 
 **2014.07.31 – 2017.06.30**
