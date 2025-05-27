@@ -26,16 +26,29 @@ Feel free to [contact me via email](mailto:your_email@example.com) or connect th
 * 2015–2017, Postdoc, Center for Computational Medicine in Cardiology (CCMC), Università della Svizzera Italiana, Switzerland. 
 
 
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Computer Skills
 
+### Programming Languages
+- **Advanced:** Python, Fortran  
+- **Intermediate:** C, C++, MPI, OpenMP, Pascal, LaTeX  
+- **Basic:** MATLAB, Maple, CUDA, Julia
+
+### High-Performance Computing (HPC)
+- Proficient in parallel programming with **MPI** and **OpenMP**.  
+- Hands-on experience with **large-scale simulations** on supercomputing clusters (e.g., via SLURM/PBS).  
+- Familiar with **hybrid CPU-GPU computing** and basic **CUDA** programming.
+
+### Scientific Computing Tools & Frameworks
+- Practical experience with **MOOSE** and **FEniCS** for PDE-based multiphysics simulations.  
+- Familiar with **PETSc**, **Trilinos**, **NumPy/SciPy** for solver development and numerical algorithms.  
+- Competent in **Linux/Unix** environments, **Git** version control, and visualization using **ParaView** and **matplotlib**.
+
+
+## Interests
+- Strength training (advanced-elite level; PR: DL 200kg, SQ 165kg, BP 95kg)
+- Mixed Martial Arts (beginner level)
+
+<!-- 注释：此处可补充写作思路，如“接下来需要添加案例部分” 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -57,3 +70,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->

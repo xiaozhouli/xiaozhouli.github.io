@@ -9,7 +9,7 @@ enddate: 2013-03-31
 venue: "European Office of Aerospace Research & Development, U.S. Air Force Office of Scientific Research"
 projecturl: ""
 reporturl:  ""
-citation: "Development Of A Class Of Smoothness-Increasing Accuracy-Conserving (SIAC) Methods For Post-Processing Discontinuous Galerkin Solutions, U.S. AFOSR Grant FA8655-09-1-3055."
+citation: ""
 excerpt: 'This project develops advanced filtering techniques to enhance the smoothness and accuracy quality of high-order discontinuous Galerkin simulation data.'
 ---
 High-order Galerkin methods—both discontinuous and continuous—are known for their strong theoretical foundations and computational efficiency. However, a common limitation stems from their minimal smoothness requirements across element interfaces. This lack of continuity can undermine downstream tasks such as data interpretation, feature detection, and scientific visualization, where smoothness is often crucial.

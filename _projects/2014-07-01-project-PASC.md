@@ -6,12 +6,11 @@ permalink: /projects/2014-07-01-project-PASC
 grantid: ""
 startdate: 2014-07-01
 enddate: 2017-06-30
-venue: "Swiss. Platform for Advanced Scientific Computing (PASC)"
+venue: "The PASC (Platform for Advanced Scientific Computing)
+network 'Life Sciences Across Scales', Switzerland."
 projecturl: "https://pasc-ch.org/projects/2013-2016/coupled-cardiac-simulations/index.html"
 reporturl:  ""
-citation: "Integrative HPC Framework for Coupled Cardiac
-Simulations (IFCCS), within the PASC (Platform for Advanced Scientific Computing)
-network 'Life Sciences Across Scales'"
+citation: ""
 excerpt: 'This project leverages the superconvergence property of discontinuous Galerkin methods to improve time integration and enable accurate, smooth visualization of high-order simulation data.'
 ---
 This project aims to develop a versatile, community-driven high-performance computing (HPC) framework—IFCCS (Integrative HPC Framework for Coupled Cardiac Simulations)—as part of the PASC initiative Life Sciences Across Scales. IFCCS will provide a next-generation software library tailored for modern and emerging hybrid computing architectures. It will integrate advanced computational models for cardiac electrophysiology, tissue mechanics, and blood flow to enable comprehensive simulations of heart function.
