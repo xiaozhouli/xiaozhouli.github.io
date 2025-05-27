@@ -1,5 +1,5 @@
 ---
-title: "双曲守恒律间断伽辽金方法的超收敛后处理研究"
+title: "粘性可压缩多相磁流体问题的建模与计算"
 collection: projects
 category: projects
 permalink: /projects/2019-01-01-project-NSFC-2
