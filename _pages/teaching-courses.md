@@ -7,11 +7,17 @@ author_profile: true
 
 {% include base_path %}
 
-This page provides an overview of all the courses I have taught, followed by a detailed listing organized by academic year and semester. 
+This page provides an overview of all the courses I have taught, followed by a detailed listing organized by academic year and semester.  The courses span different levels, including core undergraduate subjects and advanced elective topics.
 
 Please note:
-* Courses with English titles were delivered entirely in English.
+* Courses with English titles were delivered in English.
 * Courses with Chinese titles were taught in Chinese.
+
+Course materials and resources (such as lecture notes, slides, etc.) are available via the links associated with each course.
+
+Note: This website has been migrated from a previous server due to unforeseen circumstances. As a result, some course resources may have been lost, and certain links may be temporarily inaccessible. Content is being restored progressively.
+
+---
 
 ## Master/PhD Courses
 
@@ -38,7 +44,9 @@ Please note:
 * Numerical Methods for Conservation Laws
 * GPU Implementation of the Parareal parallel-in-time Method
 
-## Teaching by Semester
+---
+
+# Teaching by Semester
 
 {% for post in site.teaching reversed %}
   {% include archive-single-teaching.html %}

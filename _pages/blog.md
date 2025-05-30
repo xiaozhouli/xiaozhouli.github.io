@@ -1,16 +1,14 @@
 ---
 layout: archive
-permalink: /year-archive/
+permalink: /blog/
 title: "Blog posts"
 author_profile: true
-redirect_from:
-  - /wordpress/blog-posts/
 ---
 
 {% include base_path %}
 
-This page features short essays and reflections on topics related to mathematics, scientific computing, and academic life — with some extensions to health, training, and personal insights.
-Some Chinese-language posts are also shared via my WeChat public account, while some English-language content is updated on [WordPress](/404.
+This page features short essays and reflections on topics related to mathematics and scientific computing — with some extensions to health, training, and personal insights.  
+Some Chinese-language posts are also shared via my WeChat public account, while some English-language content is updated on [WordPress](/404/).
 
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}
