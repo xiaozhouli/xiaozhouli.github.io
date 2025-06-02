@@ -9,6 +9,13 @@ author_profile: true
 
 ## [Courses Taught](/teaching/courses/)
 
+{% include archive-single.html
+title="Courses Taught"
+url="/teaching/courses/"
+date="2025-05-01"
+excerpt="Coursse."
+%}
+
 ## Teaching Philosophy
 
 The central role of teaching mathematics has always been helping people learn how to think. This involves guiding students to develop both a deep conceptual understanding of mathematical ideas and the ability to reason logically and critically. While specific knowledge may fade over time, the habits of mind cultivated through mathematical thinking can last a lifetime. 
