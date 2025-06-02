@@ -10,10 +10,17 @@ author_profile: true
 ## [Courses Taught](/teaching/courses/)
 
 {% include archive-single.html
-title="Courses Taught"
-url="/teaching/courses/"
-date="2025-05-01"
-excerpt="Coursse."
+  title="Courses Taught"
+  url="/teaching/courses/"
+  date="2025-05-01"
+  excerpt="Coursse."
+%}
+
+{% include custom-archive-card.html
+  title="Courses Taught"
+  url="/teaching/courses/"
+  date="2025-05-01"
+  excerpt="A list of undergraduate courses I have taught, organized by semester."
 %}
 
 ## Teaching Philosophy

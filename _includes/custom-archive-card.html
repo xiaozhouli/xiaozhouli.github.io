@@ -1,0 +1,16 @@
+{% include base_path %}
+
+<article class="archive__item" style="margin-bottom: 1.5em;">
+  <h3 class="archive__item-title" style="margin-bottom: 0.25em;">
+    <a href="{{ include.url }}">{{ include.title }}</a>
+  </h3>
+  {% if include.date %}
+  <p class="page__meta"><i class="fas fa-calendar-alt"></i> {{ include.date }}</p>
+  {% endif %}
+  {% if include.category %}
+  <p class="page__meta"><i class="fas fa-folder"></i> {{ include.category }}</p>
+  {% endif %}
+  {% if include.excerpt %}
+  <p class="archive__item-excerpt">{{ include.excerpt }}</p>
+  {% endif %}
+</article>
