@@ -19,4 +19,11 @@ author_profile: true
 
 ## [Projects](/research/projects/)
 
+{% include custom-archive-card.html
+  title="Projects"
+  url="/research/projects/"
+  date="2025-01-01"
+  excerpt="Hosted and participated research projects"
+%}
+
 ## [Talks](/research/talks/)

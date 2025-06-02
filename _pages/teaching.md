@@ -9,13 +9,6 @@ author_profile: true
 
 ## [Courses Taught](/teaching/courses/)
 
-{% include archive-single.html
-  title="Courses Taught"
-  url="/teaching/courses/"
-  date="2025-05-01"
-  excerpt="Coursse."
-%}
-
 {% include custom-archive-card.html
   title="Courses Taught"
   url="/teaching/courses/"
