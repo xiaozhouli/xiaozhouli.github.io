@@ -1,38 +1,13 @@
 {% include base_path %}
 
-<style>
-  .custom-card {
-    margin-bottom: 1.5em;
-    border-left: 4px solid var(--card-accent, #007acc);
-    padding-left: 1em;
-    padding-top: 0.5em;
-    padding-bottom: 0.5em;
-  }
+<div class="archive__item">
+  <h2 class="archive__item-title no_toc">
+    <a href="{{ include.url | relative_url }}">{{ include.title }}</a>
+  </h2>
   
-  .custom-card h2 {
-    margin-top: 0;
-    margin-bottom: 0.3em;
-    font-size: 1.25em;
-  }
-  
-  .custom-card p {
-    margin: 0;
-    font-style: italic;
-    color: var(--text-muted, #666);
-  }
-  
-  @media (prefers-color-scheme: dark) {
-    .custom-card {
-      border-left-color: #66bfff;
-    }
-    
-    .custom-card p {
-      color: #aaa;
-    }
-  }
-</style>
-
-<div class="custom-card">
-  <h2><a href="{{ include.url }}">{{ include.title }}</a></h2>
-  <p>{{ include.excerpt }}</p>
+  {% if include.excerpt %}
+  <blockquote class="archive__item-excerpt" style="margin-top: 0.25rem;">
+    ❝ <em>{{ include.excerpt }}</em>
+  </blockquote>
+  {% endif %}
 </div>
