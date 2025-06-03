@@ -8,7 +8,10 @@ author_profile: true
 {% include base_path %}
 
 ## [Courses Taught](/teaching/courses/)
+
 > A list of undergraduate courses I have taught, organized by semester.
+
+_Last updated: 2025-05-27_
 
 {% include custom-archive-card.html
   title="Courses Taught"
@@ -46,3 +49,4 @@ url="/teaching/notes/"
 date="2025-05-01"
 excerpt="A collection of study tips, course-related resources, and academic guidance."
 %}
+
