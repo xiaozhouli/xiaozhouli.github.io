@@ -1,8 +1,39 @@
 {% include base_path %}
 
-<div class="custom-card" style="margin-bottom: 1.5em; border: 1px solid #ccc; border-radius: 8px; padding: 1em; background-color: #f9f9f9;">
-  <h3 style="margin-top: 0;"><a href="{{ include.url }}">{{ include.title }}</a></h3>
-  <blockquote style="margin: 0.8em 0; padding: 0.6em 1em; border-left: 4px solid #007acc; background-color: #f0f8ff; font-style: italic;">
+<style>
+  .custom-card {
+    margin-bottom: 1.5em;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 1em;
+    background-color: #f9f9f9;
+  }
+  
+  .custom-card blockquote {
+    margin: 0.8em 0;
+    padding: 0.6em 1em;
+    border-left: 4px solid #007acc;
+    background-color: #f0f8ff;
+    font-style: italic;
+  }
+  
+  @media (prefers-color-scheme: dark) {
+    .custom-card {
+      border-color: #444;
+      background-color: #1e1e1e;
+    }
+    
+    .custom-card blockquote {
+      border-left-color: #66bfff;
+      background-color: #2a2a2a;
+      color: #ccc;
+    }
+  }
+</style>
+
+<div class="custom-card">
+  <h2 style="margin-top: 0;"><a href="{{ include.url }}">{{ include.title }}</a></h2>
+  <blockquote>
     {{ include.excerpt }}
   </blockquote>
   {% if include.date %}
