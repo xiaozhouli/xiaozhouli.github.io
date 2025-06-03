@@ -3,40 +3,36 @@
 <style>
   .custom-card {
     margin-bottom: 1.5em;
-    border: 1px solid #ccc;
-    border-radius: 8px;
-    padding: 1em;
-    background-color: #f9f9f9;
+    border-left: 4px solid var(--card-accent, #007acc);
+    padding-left: 1em;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
   }
   
-  .custom-card blockquote {
-    margin: 0.8em 0;
-    padding: 0.6em 1em;
-    border-left: 4px solid #007acc;
-    background-color: #f0f8ff;
+  .custom-card h2 {
+    margin-top: 0;
+    margin-bottom: 0.3em;
+    font-size: 1.25em;
+  }
+  
+  .custom-card p {
+    margin: 0;
     font-style: italic;
+    color: var(--text-muted, #666);
   }
   
   @media (prefers-color-scheme: dark) {
     .custom-card {
-      border-color: #444;
-      background-color: #1e1e1e;
+      border-left-color: #66bfff;
     }
     
-    .custom-card blockquote {
-      border-left-color: #66bfff;
-      background-color: #2a2a2a;
-      color: #ccc;
+    .custom-card p {
+      color: #aaa;
     }
   }
 </style>
 
 <div class="custom-card">
-  <h2 style="margin-top: 0;"><a href="{{ include.url }}">{{ include.title }}</a></h2>
-  <blockquote>
-    {{ include.excerpt }}
-  </blockquote>
-  {% if include.date %}
-  <p style="font-size: 0.85em; color: #666; margin-bottom: 0;">Last updated: {{ include.date }}</p>
-  {% endif %}
+  <h2><a href="{{ include.url }}">{{ include.title }}</a></h2>
+  <p>{{ include.excerpt }}</p>
 </div>
