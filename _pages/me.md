@@ -21,7 +21,7 @@ Feel free to [contact me via email](mailto:your_email@example.com) or connect th
 * 2006–2007, School of Information Science and Technology, University of Science and Technology of China, China.
 
 ## Work:
-* 2017-present, Associate Researcher, School of Mathematical Sciences, University of Electronic Science and Technology of China, China. [link](https://www.math.uestc.edu.cn/info/1082/2095.htm)
+* 2017-present, Associate Researcher, School of Mathematical Sciences, University of Electronic Science and Technology of China, China. [Faculty Page](https://www.math.uestc.edu.cn/info/1082/2095.htm)
 * 2015–2017, Postdoc, Institute of Computational Science, Università della Svizzera Italiana, Switzerland. 
 * 2015–2017, Postdoc, Center for Computational Medicine in Cardiology (CCMC), Università della Svizzera Italiana, Switzerland. 
 
@@ -45,7 +45,7 @@ Feel free to [contact me via email](mailto:your_email@example.com) or connect th
 
 
 ## Interests
-- Strength training (advanced-elite level; PR: DL 200kg, SQ 165kg, BP 95kg)
+- Strength training (advanced to elite level; PRs: DL 200 kg, SQ 165 kg, BP 95 kg at 70 kg body weight)
 - Mixed Martial Arts (beginner level)
 
 <!-- 注释：此处可补充写作思路，如“接下来需要添加案例部分” 

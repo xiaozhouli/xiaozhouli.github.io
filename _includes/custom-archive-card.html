@@ -1,16 +1,11 @@
 {% include base_path %}
 
-<article class="archive__item" style="margin-bottom: 1.5em;">
-  <h2 class="archive__item-title" style="margin-bottom: 0.25em;">
-    <a href="{{ include.url }}">{{ include.title }}</a>
-  </h2>
+<div class="custom-card" style="margin-bottom: 1.5em; border: 1px solid #ccc; border-radius: 8px; padding: 1em; background-color: #f9f9f9;">
+  <h3 style="margin-top: 0;"><a href="{{ include.url }}">{{ include.title }}</a></h3>
+  <blockquote style="margin: 0.8em 0; padding: 0.6em 1em; border-left: 4px solid #007acc; background-color: #f0f8ff; font-style: italic;">
+    {{ include.excerpt }}
+  </blockquote>
   {% if include.date %}
-  <p class="page__meta"><i class="fas fa-calendar-alt"></i> {{ include.date }}</p>
+  <p style="font-size: 0.85em; color: #666; margin-bottom: 0;">Last updated: {{ include.date }}</p>
   {% endif %}
-  {% if include.category %}
-  <p class="page__meta"><i class="fas fa-folder"></i> {{ include.category }}</p>
-  {% endif %}
-  {% if include.excerpt %}
-  <p class="archive__item-excerpt">{{ include.excerpt }}</p>
-  {% endif %}
-</article>
+</div>

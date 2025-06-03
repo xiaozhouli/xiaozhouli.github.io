@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## [Courses Taught](/teaching/courses/)
+> A list of undergraduate courses I have taught, organized by semester.
 
 {% include custom-archive-card.html
   title="Courses Taught"
@@ -37,3 +38,11 @@ Like many mathematicians, I find the blackboard to be my most valuable teaching 
 While blackboards excel in fostering understanding, modern technology can complement traditional methods by offering clarity and structure. For example, slides are useful for visual summaries or organizing complex content. I’ve also found tools like **Jupyter Notebooks** especially effective in courses such as *Numerical Analysis* or *Scientific Computing*, where the combination of code, visualization, and explanation enhances student engagement and understanding.
 
 ---
+
+
+{% include custom-archive-card.html
+title="Student Resources & Advice"
+url="/teaching/notes/"
+date="2025-05-01"
+excerpt="A collection of study tips, course-related resources, and academic guidance."
+%}
