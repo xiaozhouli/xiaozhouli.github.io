@@ -9,11 +9,21 @@ redirect_from:
 ---
 
 {% include base_path %}
-I am a researcher in computational mathematics, currently focusing on high-accuracy numerical methods for solving partial differential equations. My recent interests include Discontinuous Galerkin (DG) methods, time-parallel solvers, and their applications in high-performance computing.
+Xiaozhou Li (李小舟) was born in Chongqing, China in 1987. I received my B.Sc. in Mathematics and Applied Mathematics from the University of Science and Technology of China (USTC), where I also minored in Mathematical Economics, and later earned my Ph.D. in Applied Mathematics from Delft University of Technology in the Netherlands. 
 
-I hold a B.Sc. in Mathematics and Applied Mathematics from Liaoning Normal University, and I am deeply involved in both research and teaching. Beyond mathematics, I enjoy long-term strength training, endurance development, and studying the science of health and performance.
+My academic work centers on computational mathematics—especially high-order numerical methods and large-scale scientific computing—where abstract ideas take shape as algorithms, and logic becomes a quiet craft for understanding the intricate world around us.
 
-Feel free to [contact me via email](mailto:your_email@example.com) or connect through [Google Scholar](https://scholar.google.com/), [GitHub](https://github.com/yourusername), or other platforms linked below.
+Beyond the university, I am drawn to the steady disciplines of strength training and the science of longevity. For years, I have practiced barbell-based training and more recently begun studying Mixed Martial Arts (MMA). These pursuits cultivate focus, clarity, and patience—virtues as essential in the gym as they are in mathematics.
+
+They mirror the core principles of mathematical work: discipline, incremental progress, and the quiet resolve to pursue distant goals over time.
+
+Just as strength training gradually shapes the body, I see mathematics as a long discipline of the mind—one that sharpens how we observe, reason, and build. It reminds me to stay rooted in the process rather than fixated on outcomes, and to trust in the slow, steady accumulation of insight.
+
+> Do not overestimate what can be done in a day, but never underestimate what can be built in a year.
+
+
+
+Feel free to [contact me via email](mailto:xiaozhouli@uestc.edu.cn) or connect through [GitHub](https://github.com/yourusername), or other platforms linked below.
 
 ## Education:
 * 2011–2015, Ph.D., Applied Mathematics, Delft University of Technology, Netherlands.
@@ -47,6 +57,12 @@ Feel free to [contact me via email](mailto:your_email@example.com) or connect th
 ## Interests
 - Strength training (advanced to elite level; PRs: DL 200 kg, SQ 165 kg, BP 95 kg at 70 kg body weight)
 - Mixed Martial Arts (beginner level)
+
+
+
+
+
+_Last updated: 2025-05-01_
 
 <!-- 注释：此处可补充写作思路，如“接下来需要添加案例部分” 
 Publications
