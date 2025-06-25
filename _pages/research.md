@@ -25,6 +25,8 @@ I believe that effective mathematical research balances depth and purpose. I val
 
 ## [Research Findings](/research/publications/)
 
+## Selected Research Themes
+
 
 {% include custom-archive-card.html
   title="Projects"

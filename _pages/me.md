@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Xiaozhou Li (李小舟) was born in Chongqing, China in 1987. I received my B.Sc. in Mathematics and Applied Mathematics from the University of Science and Technology of China (USTC), where I also minored in Mathematical Economics, and later earned my Ph.D. in Applied Mathematics from Delft University of Technology in the Netherlands. 
+Xiaozhou Li (李小舟) was born in Chongqing, China. I received my B.Sc. in Mathematics and Applied Mathematics from the University of Science and Technology of China (USTC), where I also minored in Mathematical Economics, and later earned my Ph.D. in Applied Mathematics from Delft University of Technology in the Netherlands. 
 
 My academic work centers on computational mathematics—especially high-order numerical methods and large-scale scientific computing—where abstract ideas take shape as algorithms, and logic becomes a quiet craft for understanding the intricate world around us.
 

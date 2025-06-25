@@ -2,9 +2,9 @@
 title: "Calculus I"
 collection: teaching
 type: "Undergraduate Course"
-permalink: /teaching/2024-fall-teaching-1
+permalink: /teaching/2025-fall-teaching-1
 venue: "University of Electronic Science and Technology of China, Building"
-date: 2024-09-01
+date: 2025-09-01
 location: "Lingshui, China"
 ---
 
@@ -16,7 +16,6 @@ location: "Lingshui, China"
 * Calculus I (UoG11107.06)
 * This is an English taught course for first-year undergraduate students.
 * This course introduces the basic theory of functions of a single variable. Topics include function, limit and continuity; differential calculus of one variable functions; integral calculus of one variable functions and differential equations with constant coefficients.
-* Teaching QQ group (slides, lecture notes): 949748117 
 
 
 ### Purpose of the Course:
@@ -39,8 +38,18 @@ This course aims to provide a mathematical foundation for functions of a single 
 ### Reference:
 * 同济大学数学系编,《高等数学》(第五版)，上、下册，高等教育出版社，2001。
 
-### Team Slides (J)
-[Chapter 1](https://1drv.ms/b/c/b95eaeb87d66b22a/EXe7r2R9CvNDvMKPXyyjSA8BCOYYWzi0DxmoMpXqJNJRPg?e=GSddu5)
+### Course Team Slides
+These slides are the standardized slides provided by the course team.
+> Note: All rights reserved by the course team. Reuse or distribution is subject to course policies.
+[Ch. 1](https://1drv.ms/b/c/b95eaeb87d66b22a/EXe7r2R9CvNDvMKPXyyjSA8BCOYYWzi0DxmoMpXqJNJRPg?e=GSddu5), 
+[Ch. 2](https://1drv.ms/b/c/b95eaeb87d66b22a/EeAaOokiozJLusfnbPIK7cYBondUtohwHHWyk-6wr1bmxA?e=GhdHXD)
+[Ch. 3](https://1drv.ms/b/c/b95eaeb87d66b22a/Ean1LsMr2QFJsXL_zkxbmGEByXsIGM1vzL6vwp_UsDTF8A?e=VEVLOx)
+[Ch. 4](https://1drv.ms/b/c/b95eaeb87d66b22a/EZuXRjpTLrFLpwEfHFOOPSQBGsvdT0bv0hN9_uIaWQ7GeQ?e=GFDLku)
+[Ch. 5](https://1drv.ms/b/c/b95eaeb87d66b22a/EYBHy4g-VH1DlXZ8z3kfE0QB6XYMH7TGa4z2hp8Gif48XA?e=v0OovA)
+[Ch. 6](https://1drv.ms/b/c/b95eaeb87d66b22a/EddsbYgXWkhCp2sV74weDNABF6Og7pcR343huJQpIdDwoA?e=sVez1z)
+[Ch. 7](https://1drv.ms/b/c/b95eaeb87d66b22a/EXD6xt-MwDpHlsCmTkMsRQcBfAqvgzEUgBKIjjG-2ZVz-w?e=4pw29G)
+[Ch. 8](https://1drv.ms/b/c/b95eaeb87d66b22a/ETUMZaWUNstBsGawDZsFN3MBk6Iv2SgCWVSRAiyztNUJJA?e=y9Pstg)
+[Ch. 9](https://1drv.ms/b/c/b95eaeb87d66b22a/EZ3HZFKdUJdBm2rQ9PcfjPkB1b0Km5Ppnxa7o5p7XiG6Tw?e=D3EL2d)
 
 ***
 ## Slides
