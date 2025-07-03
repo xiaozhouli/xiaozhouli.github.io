@@ -13,7 +13,7 @@ location: "Lingshui, China"
 
 ***
 ## Course Information
-* Calculus I (UoG11107.06)
+* Calculus I (UoG11107)
 * This is an English taught course for first-year undergraduate students.
 * This course introduces the basic theory of functions of a single variable. Topics include function, limit and continuity; differential calculus of one variable functions; integral calculus of one variable functions and differential equations with constant coefficients.
 
@@ -41,20 +41,24 @@ This course aims to provide a mathematical foundation for functions of a single 
 ### Course Team Slides
 These slides are the standardized slides provided by the course team.
 > Note: All rights reserved by the course team. Reuse or distribution is subject to course policies.
+
 [Ch. 1](https://1drv.ms/b/c/b95eaeb87d66b22a/EXe7r2R9CvNDvMKPXyyjSA8BCOYYWzi0DxmoMpXqJNJRPg?e=GSddu5), 
-[Ch. 2](https://1drv.ms/b/c/b95eaeb87d66b22a/EeAaOokiozJLusfnbPIK7cYBondUtohwHHWyk-6wr1bmxA?e=GhdHXD)
-[Ch. 3](https://1drv.ms/b/c/b95eaeb87d66b22a/Ean1LsMr2QFJsXL_zkxbmGEByXsIGM1vzL6vwp_UsDTF8A?e=VEVLOx)
-[Ch. 4](https://1drv.ms/b/c/b95eaeb87d66b22a/EZuXRjpTLrFLpwEfHFOOPSQBGsvdT0bv0hN9_uIaWQ7GeQ?e=GFDLku)
-[Ch. 5](https://1drv.ms/b/c/b95eaeb87d66b22a/EYBHy4g-VH1DlXZ8z3kfE0QB6XYMH7TGa4z2hp8Gif48XA?e=v0OovA)
-[Ch. 6](https://1drv.ms/b/c/b95eaeb87d66b22a/EddsbYgXWkhCp2sV74weDNABF6Og7pcR343huJQpIdDwoA?e=sVez1z)
-[Ch. 7](https://1drv.ms/b/c/b95eaeb87d66b22a/EXD6xt-MwDpHlsCmTkMsRQcBfAqvgzEUgBKIjjG-2ZVz-w?e=4pw29G)
-[Ch. 8](https://1drv.ms/b/c/b95eaeb87d66b22a/ETUMZaWUNstBsGawDZsFN3MBk6Iv2SgCWVSRAiyztNUJJA?e=y9Pstg)
-[Ch. 9](https://1drv.ms/b/c/b95eaeb87d66b22a/EZ3HZFKdUJdBm2rQ9PcfjPkB1b0Km5Ppnxa7o5p7XiG6Tw?e=D3EL2d)
+[Ch. 2](https://1drv.ms/b/c/b95eaeb87d66b22a/EeAaOokiozJLusfnbPIK7cYBondUtohwHHWyk-6wr1bmxA?e=GhdHXD),
+[Ch. 3](https://1drv.ms/b/c/b95eaeb87d66b22a/Ean1LsMr2QFJsXL_zkxbmGEByXsIGM1vzL6vwp_UsDTF8A?e=VEVLOx),
+[Ch. 4](https://1drv.ms/b/c/b95eaeb87d66b22a/EZuXRjpTLrFLpwEfHFOOPSQBGsvdT0bv0hN9_uIaWQ7GeQ?e=GFDLku),
+[Ch. 5](https://1drv.ms/b/c/b95eaeb87d66b22a/EYBHy4g-VH1DlXZ8z3kfE0QB6XYMH7TGa4z2hp8Gif48XA?e=v0OovA),
+[Ch. 6](https://1drv.ms/b/c/b95eaeb87d66b22a/EddsbYgXWkhCp2sV74weDNABF6Og7pcR343huJQpIdDwoA?e=sVez1z),
+[Ch. 7](https://1drv.ms/b/c/b95eaeb87d66b22a/EXD6xt-MwDpHlsCmTkMsRQcBfAqvgzEUgBKIjjG-2ZVz-w?e=4pw29G),
+[Ch. 8](https://1drv.ms/b/c/b95eaeb87d66b22a/ETUMZaWUNstBsGawDZsFN3MBk6Iv2SgCWVSRAiyztNUJJA?e=y9Pstg),
+[Ch. 9](https://1drv.ms/b/c/b95eaeb87d66b22a/EZ3HZFKdUJdBm2rQ9PcfjPkB1b0Km5Ppnxa7o5p7XiG6Tw?e=D3EL2d),
 
 ***
 ## Slides
-* Practical Information [_Slide_](http://xiaozhouli.com/resources/Cal2022/Calculus-I.pdf)
-* Chapter 1.  Functions [_Slide_](http://xiaozhouli.com/resources/Cal2022/1.Functions.pdf)
+This version was used in my actual lectures and includes modifications to better reflect my teaching preferences. These may involve reworded explanations, added examples, or annotated notes from class.
+> Note: Minor updates or in-class adjustments may not be reflected here in real time.
+
+* Practical Information [_Slide_](https://1drv.ms/b/c/b95eaeb87d66b22a/EbJ6vz0jbcZNhN-cauPGtjEB3IhLOLp7Yh6NJJvOEm5Ong?e=BISlOe)
+* Chapter 1.  Functions [_Slide_](https://1drv.ms/b/c/b95eaeb87d66b22a/EfPIe5nE1_FPuaEOFodD3coBKc5x9VxImNxAthDkWTR4vw?e=pqbaCc)
 - 1.1 Functions and Their Graphs 
 - 1.2 Combining Functions; Shifting and Scaling Graphs
 - 1.3 Trigonometric Functions 
